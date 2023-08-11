@@ -40,10 +40,12 @@ public class App {
     }
 
     public Integer obtenerMaximo(){
+        logger.info("Calculando maximo");
         return Collections.max(listaEnteros);
     }
 
     public Integer obtenerMinimo(){
+        logger.info("Calculando minimo");
         return Collections.min(listaEnteros);
     }
 
