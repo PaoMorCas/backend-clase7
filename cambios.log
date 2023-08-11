@@ -1,0 +1,80 @@
+[2023-08-10 20:21:32] [ INFO ] [App:22] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:21:32] [ INFO ] [App:22] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:21:32] [ INFO ] [App:22] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:21:32] [ INFO ] [App:22] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:21:32] [ INFO ] [App:22] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:21:32] [ INFO ] [App:22] La lista es mayor a 5, tiene: 11
+[2023-08-10 20:22:20] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:22:20] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:22:20] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:22:20] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:22:20] [ INFO ] [App:24] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:22:20] [ INFO ] [App:22] La lista es mayor a 10, tiene: 11
+[2023-08-10 20:22:44] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:22:44] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:22:44] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:22:44] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:22:44] [ INFO ] [App:24] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:22:44] [ INFO ] [App:22] La lista es mayor a 10, tiene: 11
+[2023-08-10 20:22:44] [ INFO ] [App:32] El promedio es: 5.0
+[2023-08-10 20:23:28] [ INFO ] [App:32] El promedio es: 2.0
+[2023-08-10 20:24:06] [ INFO ] [App:32] El promedio es: 102.0
+[2023-08-10 20:24:23] [ INFO ] [App:32] El promedio es: 10 2.0
+[2023-08-10 20:25:23] [ INFO ] [App:32] El promedio es: 10 2.0
+[2023-08-10 20:25:31] [ INFO ] [App:32] El promedio es: 15 3.0
+[2023-08-10 20:25:58] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:25:58] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:25:58] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:25:58] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:25:58] [ INFO ] [App:32] El promedio es: 45 5.0
+[2023-08-10 20:26:38] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:26:38] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:26:38] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:26:38] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:26:38] [ INFO ] [App:24] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:26:38] [ INFO ] [App:32] El promedio es: 55 5.0
+[2023-08-10 20:27:04] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:27:04] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:27:04] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:27:04] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:27:04] [ INFO ] [App:24] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:27:04] [ INFO ] [App:32] El promedio es: 55 5.0
+[2023-08-10 20:29:01] [ ERROR] [App:31] La lista no tiene elementos0
+[2023-08-10 20:30:21] [ ERROR] [App:31] La lista no tiene elementos: 0
+[2023-08-10 20:30:51] [ ERROR] [App:31] La lista no tiene elementos: 0
+[2023-08-10 20:40:00] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:40:00] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:40:00] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:40:00] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:40:00] [ INFO ] [App:24] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:40:00] [ INFO ] [App:35] El promedio es: 55 5.0
+[2023-08-10 20:40:21] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:40:21] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:40:21] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:40:21] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:40:21] [ INFO ] [App:24] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:40:21] [ INFO ] [App:35] El promedio es: 55 5.0
+[2023-08-10 20:41:34] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:41:34] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:41:34] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:41:34] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:41:34] [ INFO ] [App:24] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:41:34] [ INFO ] [App:35] El promedio es: 55 5.0
+[2023-08-10 20:42:09] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:42:09] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:42:09] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:42:09] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:42:09] [ INFO ] [App:24] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:42:09] [ INFO ] [App:35] El promedio es: 55 5.0
+[2023-08-10 20:43:00] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:43:00] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:43:00] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:43:00] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:43:00] [ INFO ] [App:24] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:43:00] [ INFO ] [App:35] El promedio es: 55 5.0
+[2023-08-10 20:44:06] [ INFO ] [App:24] La lista es mayor a 5, tiene: 6
+[2023-08-10 20:44:06] [ INFO ] [App:24] La lista es mayor a 5, tiene: 7
+[2023-08-10 20:44:06] [ INFO ] [App:24] La lista es mayor a 5, tiene: 8
+[2023-08-10 20:44:06] [ INFO ] [App:24] La lista es mayor a 5, tiene: 9
+[2023-08-10 20:44:06] [ INFO ] [App:24] La lista es mayor a 5, tiene: 10
+[2023-08-10 20:44:06] [ INFO ] [App:35] El promedio es: 55 5.0
